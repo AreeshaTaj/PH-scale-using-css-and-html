@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 5px;
+
+}
+#para{
+    background-color:rgba(245, 245, 245, 0.669);
+    color: gray;
+}
+#text1{
+    background-color:  rgb(45, 77, 238);
+
+}
+#highlight1{
+    background-color:  rgb(45, 109, 238);
+}
+#highlight2{
+    background-color:  rgb(45, 132, 238);
+}
+#text2{
+    background-color: rgb(45, 145, 238);
+    
+}
+#text3{
+    background-color: rgb(45, 170, 238);
+
+}
+#text4{
+    background-color: rgb(45, 180, 238);
+    
+
+}
+#text5{
+    background-color:rgb(45, 170, 238);
+    
+}
+#text6{
+    background-color:rgb(116, 174, 116);
+    
+}
+#text7{
+    background-color: rgb(210, 160, 170);
+    
+}
+#text8{
+    background-color: rgb(243, 153, 183);
+}
+#text9{
+    background-color:rgb(233, 133, 158)
+
+}
+#text10{
+    background-color: rgb(228, 123, 158);
+    
+}
+#text11{
+    background-color: rgb(230, 110, 155);
+    
+}
+#text12{
+    background-color: rgb(252, 109, 156);
+    
+}
+#text13{
+    background-color: rgb(223, 58, 119);
+    
+}
